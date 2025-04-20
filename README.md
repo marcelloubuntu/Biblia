@@ -1,2 +1,1 @@
-# Biblia Sagrada...
-Welcome to the Bible
+# Biblia Sagrada
